@@ -16,3 +16,4 @@ services:
       MYSQL_ROOT_PASSWORD: 1234
     volumes:
       - ./mysql:/var/lib/mysql          
+      
