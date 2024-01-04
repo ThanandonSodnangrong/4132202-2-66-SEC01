@@ -1,0 +1,6 @@
+version: '3'
+services:
+  ssh:
+    image: rsatasheep/ubuntu-ssh
+    ports:
+      - 2222:22
